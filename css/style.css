@@ -1,0 +1,31 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* BODY AND COMMON */
+body{
+    font-family: Arial;
+    background-color: #f6f8f9;
+}
+
+/* HEADER */
+header{
+    background-color: #ffffff;
+}
+
+/* logo */
+.logo img,h1{
+    display: inline-block;
+    vertical-align: middle;    
+}
+.logo h1{
+    font-size: 40px;
+    font-weight:700;
+}
+
+.logo{
+    padding: 10px 20px;
+}
